@@ -44,7 +44,7 @@ export default function App() {
       
         </>
 
-        : <Text style={styles.message}>Nenhum foi dado encontrado...</Text>  }
+        : <Text style={styles.message}>Nenhum dado foi encontrado...</Text>  }
       </View>
     </View>
   );
